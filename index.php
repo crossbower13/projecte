@@ -6,7 +6,7 @@
   </head>
   <body>
     <?php
-   echo 'pepe';
+    // put your code here
     ?>
   </body>
 </html>
